@@ -2,7 +2,7 @@
 
 Create an HTML file and a CSS file that outputs the following
 
-![exercise-14 goal](../../assets/ex-14-goal.png)
+![exercise-14 goal](../../__lecture/assets/ex-14-goal.png)
 
 ```html
 <button type="button" class="btn btn-primary">Primary</button>

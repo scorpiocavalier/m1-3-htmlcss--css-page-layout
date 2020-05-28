@@ -4,7 +4,7 @@
 
 Update only the `style.css` file to reproduces the following:
 
-![exercise-9 goal](../../assets/ex-9-goal.gif)
+![exercise-9 goal](../../__lecture/assets/ex-9-goal.gif)
 
 ## Reference
 

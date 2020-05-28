@@ -4,7 +4,7 @@
 
 Update the `index.html` file and `style.css` file to reproduces the following:
 
-![exercise-6 goal](../../assets/ex-6-goal.gif)
+![exercise-6 goal](../../__lecture/assets/ex-6-goal.gif)
 
 ### Properties Needed
 

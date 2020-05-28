@@ -1,13 +1,13 @@
 body {
-    margin: 0;
+  margin: 0;
 }
 
 .nav {
-    background-color: #383737;
+  background-color: #383737;
 }
 
 .nav-dropdown {
-    color: #fff;
-    text-decoration: none;
-    display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
 }

@@ -4,7 +4,7 @@
 
 The very first exercise had us build this:
 
-![exercise-1 goal](../../assets/ex-1-goal.png)
+![exercise-1 goal](../../__lecture/assets/ex-1-goal.png)
 
 For fun, try and build this _without_ using flexbox. No `display: flex` allowed.
 
