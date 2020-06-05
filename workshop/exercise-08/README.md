@@ -1,4 +1,6 @@
-## Description
+# 1.2 - CSS: Page Layout - Workshop
+
+## Exercise 8
 
 Update only the CSS file to reproduce the following:
 

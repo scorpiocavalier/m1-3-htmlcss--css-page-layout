@@ -1,4 +1,4 @@
-# Exercise 17 - Optional
+# Exercise 17
 
 Create an HTML file and a CSS file that outputs the following
 
