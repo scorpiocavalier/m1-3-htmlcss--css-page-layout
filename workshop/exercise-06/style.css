@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  color: white;
 }
 
 .nav {
@@ -7,7 +8,30 @@ body {
 }
 
 .nav-dropdown {
-  color: #fff;
+  padding: 1em;
   text-decoration: none;
   display: inline-block;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  opacity: 0;
+}
+
+.nav li {
+  padding: 1em;
+  list-style-type: none;
+  background-color: rgb(30, 136, 223);
+}
+
+.nav-dropdown:hover > ul {
+  opacity: 1;
+}
+
+.nav li:hover {
+  background-color: rgb(0, 60, 170);
 }
