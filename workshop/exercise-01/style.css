@@ -1,18 +1,25 @@
 body {
-    width: 100%;
-    text-align: center;
+    margin: 0;
 }
 
-nav {
-    background-color: darkgray;
+.container {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    min-height: 100vh;
+}
+
+nav, section, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav, footer {
+    color: #fff;
+    background-color: gray;
     height: 10vh;
 }
 
 section {
     height: 80vh;
-}
-
-footer {
-    background-color: darkgray;
-    height: 10vh;
 }
