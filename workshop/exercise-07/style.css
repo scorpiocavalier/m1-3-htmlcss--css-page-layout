@@ -5,7 +5,8 @@ body {
 header {
   display: flex;
   justify-content: space-between;
-  padding: 0 0 0 1.5em;
+  padding-left: 1.5em;
+  border: 1px solid black;
 }
 
 .mobile-nav-button img {
@@ -20,10 +21,6 @@ header {
 
   .mobile-nav {
     display: none;
-  }
-  
-  .desktop-nav {
-    display: inline;
   }
 
   .desktop-nav {
@@ -44,5 +41,6 @@ header {
     margin: 1.5em;
     font-size: larger;
     font-weight: 500;
+    border: 1px solid black;
   }
 }
